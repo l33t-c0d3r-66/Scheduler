@@ -1,5 +1,5 @@
 # Scheduler
-<li> This is a simple scheduler project created using JFXtra. 
+<li> Scheduler is a Desktop Application created in JavaFX using JFXtra. 
 <li> In this Project you can add an Event to Calendar on specific time and It'll play music 10 minutes before the event.
 <li> It's using files to save the data about the Events for now.
   
